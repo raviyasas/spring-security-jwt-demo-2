@@ -1,3 +1,9 @@
+### This is a Spring Boot application which uses token based authentication using **Spring Security**
+- Spring Boot 2.3.0.RELEASE
+- Java 1.8
+- jjwt 0.9.1
+
+
 ## Get the token
 ### From this API, you can get the token for a valid user
 
